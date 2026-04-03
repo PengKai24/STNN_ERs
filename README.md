@@ -10,9 +10,8 @@ Our work proposes **STNN-ERs**, a transfer-learning framework built upon the The
 
 - `final_TNN_2nodes4trans0328.ipynb` : main notebook containing the implementation, training, and evaluation workflow
 - `data/` : source-domain and target-domain data
-- `checkpoints/stnn_pretrain.pt` : pretrained source-domain model checkpoint
-- `figures/` : hardware platform images and experimental result figures
-- `citation.bib` : reference information for data and related work
+- `model/stnn_pretrain.pt` : pretrained source-domain model checkpoint
+- `figure/` : hardware platform images and experimental result figures
 
 ---
 
