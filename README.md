@@ -73,4 +73,4 @@ Estimation results of multiple nodes are shown below.
 </p>
 
 ## Our manuscript
-This paper is currently under review. A formal citation will be added after publication.
+This paper is currently under review. More details will be added after publication.
