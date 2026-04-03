@@ -47,7 +47,28 @@ The proposed **STNN-ERs** model is developed based on the **Thermal Neural Netwo
 
 We thank the original author for making the code and ideas publicly available.
 
-The diagram of proposed STNN-ERs is shown in Fig. 1.
+The diagram of proposed STNN-ERs is shown below.
+<p align="center">
+  <img src="figures/STNN_ERs.tif" width="500"/>
+</p>
 
+It contains two parts: a shared-node thermal neural network (STNN) and extend-node residuals (ERs). STNN is first pretrained using source-domain dataset, and the fined-tuned using target-domain dataset. ERs are trained from scratch using target-domain dataset.
 
+### Pretrained Model
 
+The pretrained source-domain model is stored in:
+model/stnn_pretrain.pt
+
+## Hardware Platform
+
+The target-domain experiments are conducted on our self-built hardware platform.
+<p align="center">
+  <img src="figures/hardware_platform.tif" width="500"/>
+</p>
+
+## Experimental Results
+
+Estimation results of multiple nodes are shown below.
+<p align="center">
+  <img src="figures/multi_node_results.tif" width="500"/>
+</p>
