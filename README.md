@@ -48,7 +48,7 @@ We thank the original author for making the code and ideas publicly available.
 
 The diagram of proposed STNN-ERs is shown below.
 <p align="center">
-  <img src="figure/STNN_ERs.jpg" width="500"/>
+  <img src="figure/STNN_ERs.jpg" width="800"/>
 </p>
 
 It contains two parts: a shared-node thermal neural network (STNN) and extend-node residuals (ERs). STNN is first pretrained using source-domain dataset, and the fined-tuned using target-domain dataset. ERs are trained from scratch using target-domain dataset.
@@ -69,7 +69,7 @@ The target-domain experiments are conducted on our self-built hardware platform.
 
 Estimation results of multiple nodes are shown below.
 <p align="center">
-  <img src="figure/multi_node_results.jpg" width="500"/>
+  <img src="figure/multi_node_results.jpg" width="800"/>
 </p>
 
 ## Our manuscript
