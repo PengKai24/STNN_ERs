@@ -36,7 +36,7 @@ The dataset is publicly available on Kaggle and can be cited as:
 ### Target Domain Data
 
 The target-domain data was collected on our own hardware platform and is provided in:
-data/target/target_data.csv
+STNN_ERs/dataset/target_data.csv
 
 ## Model Description
 
