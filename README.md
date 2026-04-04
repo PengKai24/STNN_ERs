@@ -56,7 +56,7 @@ It contains two parts: a shared-node thermal neural network (STNN) and extend-no
 ### Pretrained Model
 
 The pretrained source-domain model is stored in:
-model/stnn_pretrain.pt
+STNN_ERs/model/stnn_pretrain.pt
 
 ## Hardware Platform
 
