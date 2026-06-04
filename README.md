@@ -72,8 +72,19 @@ Estimation results of multiple nodes are shown below.
   <img src="figure/multi_node_results.jpg" width="800"/>
 </p>
 
-## Our manuscript
-This paper is currently under review. More details will be added after publication.
+## Citation
+
+If you find the PMSM multinode temperature estimation method or related implementation in this repository useful for your research, please consider citing the following paper:
+
+```bibtex
+@article{Peng2026TransferLearningPMSM,
+  author  = {Peng, K. and Yang, J. and Liu, Z. and Wang, K. and Ge, J. and Kong, W.},
+  title   = {Transfer Learning for PMSM Multinode Temperature Estimation Using a Shared-Node Thermal Neural Network With Extend-Node Residuals},
+  journal = {IEEE Transactions on Industrial Electronics},
+  year    = {2026},
+  doi     = {10.1109/TIE.2026.3688721}
+}
+```
 
 ## Contact
 For any queries or further discussion regarding the project, please open an issue in this repository or direct connect kaipeng@hust.edu.cn.
