@@ -74,7 +74,7 @@ Estimation results of multiple nodes are shown below.
 
 ## Citation
 
-If you find the PMSM multinode temperature estimation method or related implementation in this repository useful for your research, please consider citing the following paper:
+If you find the PMSM multinode temperature estimation method useful for your research, please consider citing the following paper:
 
 ```bibtex
 @article{Peng2026TransferLearningPMSM,
