@@ -1,0 +1,32 @@
+```yaml
+cff-version: 1.2.0
+message: "If you use this repository or the related PMSM thermal estimation method, please cite the paper below."
+
+title: "STNN_ERs"
+type: software
+authors:
+  - family-names: "Peng"
+    given-names: "Kai"
+
+url: "https://github.com/PengKai24/STNN_ERs"
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Peng"
+      given-names: "Kai"
+    - family-names: "Yang"
+      given-names: "J."
+    - family-names: "Liu"
+      given-names: "Z."
+    - family-names: "Wang"
+      given-names: "K."
+    - family-names: "Ge"
+      given-names: "J."
+    - family-names: "Kong"
+      given-names: "W."
+  title: "Transfer Learning for PMSM Multinode Temperature Estimation Using a Shared-Node Thermal Neural Network With Extend-Node Residuals"
+  journal: "IEEE Transactions on Industrial Electronics"
+  year: 2026
+  doi: "10.1109/TIE.2026.3688721"
+```
